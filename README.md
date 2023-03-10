@@ -34,7 +34,7 @@ R / SPSS
 
 
 ---
-### 2. [동네 추천하는 남자](https://github.com/Mi-int/R-Base/blob/main/DongChu)
+### 2. [동네 추천하는 남자](https://github.com/Mi-int/DongChu)
 >좋은 동네 대한 사회적 인식 분석 (팀 프로젝트)  
 >개발 기간: 2022.10 ~ 2022.12  
 >  
