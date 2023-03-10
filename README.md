@@ -26,14 +26,12 @@ R / SPSS
 </br>
 
 ## :pushpin: Projects
-### 1. [날씨 변수 간 상관분석과 ARIMA모델을 활용한 서울 기온 예측](https://github.com/Mi-int/R-Base/blob/main/Seoul%20Temp.R)
+### 1. [날씨 변수 간 상관분석과 ARIMA모델을 활용한 서울 기온 예측](https://github.com/Mi-int/Seoul-temperature)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2022.6.1 ~ 2022.6.8  
 >  
 >기술 스택:   R
->
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+
 
 ---
 ### 2. [동네 추천하는 남자](https://github.com/Mi-int/R-Base/blob/main/DongChu)
@@ -41,6 +39,4 @@ R / SPSS
 >개발 기간: 2022.10 ~ 2022.12  
 >  
 >기술 스택:   R
->
->  
->[프로젝트 상세 설명](https://github.com/Mi-int) 참고
+
