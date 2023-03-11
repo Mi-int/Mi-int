@@ -1,8 +1,12 @@
-# 임재형 포트폴리오
+# Lim JaeHyung
 
+Studying Data Science & Analysis
 </br>
 
 ## :pushpin: Intro
+
+### 📑 Edu
+> Hallym Unv. Biostatistics/ Data Technology
 
 ### :book: Skill 
 
