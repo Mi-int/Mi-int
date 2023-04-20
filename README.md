@@ -1,6 +1,6 @@
 # Lim JaeHyung
 
-Studying Data Science & Analysis
+Biostatistian
 </br>
 
 ## :pushpin: Intro
@@ -8,9 +8,12 @@ Studying Data Science & Analysis
 ### 📑 Edu
 > Hallym Unv. Biostatistics/ Data Technology
 
+### Carrer
+> 
+
 ### :book: Skill 
 
-R / SPSS
+R / SAS / SPSS
 
 
 </br>
